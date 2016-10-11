@@ -8,5 +8,8 @@ This repository includes all projects I did for Udacity course: [Programming Fou
 - **mindstorms**: some crazy turtles are drawing shapes
 - **turtle_flower**: a little turtle draws a flower
 - **send_text**: use twilio to send text messages from your computer to your friends
+- **check_profanity**: check if there is any curse words in a given file
+- **pirate_speech**: translate a file into a pirate speech
+- **movies**: a website with my favorite movies' storyline, poster and trailer
 
 ## Final Project
